@@ -2,31 +2,25 @@
 
 "This project aims to develop AI assistants that can help facilitate everyday tasks, such as coding or other activities. In addition, AI tools can be added to create question and answer sessions, making it easier to obtain information. This project will help make everyday life easier and more efficient."
 
----
+
 *** 
 
 Installation
 
 *** 
 
-How to install :
-
 * git clone https://github.com/kaimarks9/FridayAI
 * cd FridayAI
 * pip -r requirements.txt
 * python friday.py
-
-Note : If you installed on Linux you should  
 
 ---
 
 Social Media
 
 *** 
-
-[YouTube] (https://youtube.com/kaimarks9 “Youtube”)
-[Twitter] (https://twitter.com/kaimarkss "Twitter")
-[Instagram] (https://instagram.com/kaimarks9) "Instagram")
+[![Twitter Follow](https://img.shields.io/twitter/follow/kaimarkss?style=social)](https://twitter.com/kaimarkss)
+[![Instagram Follow](https://img.shields.io/twitter/follow/kaimarks9?logo=instagram&style=social)](https://instagram.com/kaimarks9)
 
 *** 
 
@@ -76,6 +70,9 @@ pip install numpy
 This will install the numpy package inside the virtual environment.
 
 To exit the virtual environment, you can run the deactivate command in your terminal. This will deactivate the virtual environment and restore your previous Python environment.
+
+
+
 
 
 &copy; kaimarks9
