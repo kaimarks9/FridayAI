@@ -1,6 +1,5 @@
 pyttsx3
-requests_toolbelt
-speech_recognition
+SpeechRecognition
 datetime
 webbrowser
 os
@@ -11,8 +10,6 @@ pyautogui
 time
 operator
 requests
-ubprocess
-QueryValue
 wikipedia
 openai
 dotenv
