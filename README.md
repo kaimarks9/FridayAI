@@ -18,7 +18,6 @@ Installation
 
 Social Media
 
-*** 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kaimarkss?style=social)](https://twitter.com/kaimarkss)
 [![Instagram Follow](https://img.shields.io/twitter/follow/kaimarks9?logo=instagram&style=social)](https://instagram.com/kaimarks9)
 
